@@ -73,7 +73,7 @@ body {
     vertical-align: middle;
   }
   
-  #results {
+  #searchResults {
     margin: 30px auto;
     width: 80%;
     padding: 20px;
@@ -105,7 +105,7 @@ body {
   
   #contact-form h2 {
     text-align: center;
-    color: w;
+    color: white;
   }
   
   #contact-form label {
